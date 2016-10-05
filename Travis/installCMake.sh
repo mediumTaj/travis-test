@@ -1,3 +1,3 @@
 #! /bin/sh
-echo 'Installing CMake!'
+echo 'Installing CMake!!'
 brew install  cmake;
